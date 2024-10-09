@@ -40,19 +40,19 @@
     "url": "https://key.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/key.0il.pw.ico",
     "slug": "misskey-key",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 336,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 267,
+    "timeDay": 286,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 6
     }
   },
   {
