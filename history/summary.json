@@ -4,18 +4,20 @@
     "url": "https://mi.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/mi.0il.pw.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 886,
-    "timeWeek": 637,
-    "timeMonth": 644,
-    "timeYear": 644,
-    "dailyMinutesDown": {}
+    "time": 636,
+    "timeDay": 700,
+    "timeWeek": 656,
+    "timeMonth": 636,
+    "timeYear": 636,
+    "dailyMinutesDown": {
+      "2024-10-13": 0
+    }
   },
   {
     "name": "misskey-zzlq",
