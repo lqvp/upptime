@@ -9,6 +9,8 @@ sites:
     url: https://zzlq.0il.pw/
   - name: misskey-key
     url: https://key.0il.pw/
+  - name: yoiyami
+    url: https://yoiyami.0il.pw/
   - name: mastodon
     url: https://mstdn.0il.pw/
 
