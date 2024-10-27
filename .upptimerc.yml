@@ -13,6 +13,8 @@ sites:
     url: https://yoiyami.0il.pw/
   - name: sharkey
     url: https://sharkey.0il.pw/
+  - name: iceshrimp
+    url: https://ice.0il.pw/
   - name: mastodon
     url: https://mstdn.0il.pw/
   - name: relay
