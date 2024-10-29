@@ -22,19 +22,19 @@
     "url": "https://zzlq.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/zzlq.0il.pw.ico",
     "slug": "misskey-zzlq",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 619,
-    "timeDay": 565,
+    "timeDay": 576,
     "timeWeek": 599,
     "timeMonth": 619,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-10-29": 0
+      "2024-10-29": 17
     }
   },
   {
