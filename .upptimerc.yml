@@ -19,6 +19,8 @@ sites:
     url: https://mstdn.0il.pw/
   - name: relay
     url: $RELAY
+  - name: tools
+    url: https://tool.0il.pw/
     expectedStatusCodes:
       - 405
 
