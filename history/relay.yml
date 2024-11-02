@@ -1,7 +1,7 @@
 url: $RELAY
-status: up
+status: down
 code: 405
-responseTime: 153
-lastUpdated: 2024-11-01T23:12:59.313Z
+responseTime: 144
+lastUpdated: 2024-11-02T05:55:44.296Z
 startTime: 2024-10-23T05:36:07.783Z
 generator: Upptime <https://github.com/upptime/upptime>
