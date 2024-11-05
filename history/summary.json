@@ -22,18 +22,20 @@
     "url": "https://zzlq.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/zzlq.0il.pw.ico",
     "slug": "misskey-zzlq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 727,
-    "timeWeek": 617,
-    "timeMonth": 623,
-    "timeYear": 623,
-    "dailyMinutesDown": {}
+    "time": 617,
+    "timeDay": 519,
+    "timeWeek": 593,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "misskey-key",
@@ -148,17 +150,19 @@
     "url": "https://tool.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/tool.0il.pw.ico",
     "slug": "tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 597,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
-    "dailyMinutesDown": {}
+    "time": 512,
+    "timeDay": 343,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   }
 ]
