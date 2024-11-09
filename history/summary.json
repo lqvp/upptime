@@ -4,18 +4,20 @@
     "url": "https://mi.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/mi.0il.pw.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 996,
-    "timeWeek": 783,
-    "timeMonth": 732,
-    "timeYear": 707,
-    "dailyMinutesDown": {}
+    "time": 694,
+    "timeDay": 766,
+    "timeWeek": 706,
+    "timeMonth": 716,
+    "timeYear": 694,
+    "dailyMinutesDown": {
+      "2024-11-09": 0
+    }
   },
   {
     "name": "misskey-zzlq",
@@ -30,7 +32,7 @@
     "uptimeYear": "99.96%",
     "time": 623,
     "timeDay": 561,
-    "timeWeek": 643,
+    "timeWeek": 648,
     "timeMonth": 621,
     "timeYear": 623,
     "dailyMinutesDown": {
@@ -50,7 +52,7 @@
     "uptimeYear": "99.96%",
     "time": 244,
     "timeDay": 207,
-    "timeWeek": 248,
+    "timeWeek": 236,
     "timeMonth": 238,
     "timeYear": 244,
     "dailyMinutesDown": {
@@ -70,7 +72,7 @@
     "uptimeYear": "99.93%",
     "time": 301,
     "timeDay": 266,
-    "timeWeek": 282,
+    "timeWeek": 272,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
@@ -90,7 +92,7 @@
     "uptimeYear": "99.93%",
     "time": 280,
     "timeDay": 211,
-    "timeWeek": 273,
+    "timeWeek": 268,
     "timeMonth": 280,
     "timeYear": 280,
     "dailyMinutesDown": {
@@ -110,7 +112,7 @@
     "uptimeYear": "99.90%",
     "time": 278,
     "timeDay": 225,
-    "timeWeek": 270,
+    "timeWeek": 269,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -130,7 +132,7 @@
     "uptimeYear": "99.96%",
     "time": 273,
     "timeDay": 248,
-    "timeWeek": 292,
+    "timeWeek": 285,
     "timeMonth": 272,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -150,7 +152,7 @@
     "uptimeYear": "100.00%",
     "time": 179,
     "timeDay": 169,
-    "timeWeek": 163,
+    "timeWeek": 168,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {}
@@ -168,7 +170,7 @@
     "uptimeYear": "99.78%",
     "time": 531,
     "timeDay": 363,
-    "timeWeek": 531,
+    "timeWeek": 521,
     "timeMonth": 531,
     "timeYear": 531,
     "dailyMinutesDown": {
