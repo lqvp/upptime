@@ -24,7 +24,7 @@ sites:
     expectedStatusCodes:
       - 405
   - name: tools
-    url: https://tool.0il.pw/
+    url: https://tools.0il.pw/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
