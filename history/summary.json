@@ -11,8 +11,8 @@
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.59%",
     "time": 643,
-    "timeDay": 754,
-    "timeWeek": 703,
+    "timeDay": 692,
+    "timeWeek": 693,
     "timeMonth": 619,
     "timeYear": 643,
     "dailyMinutesDown": {
@@ -20,28 +20,6 @@
       "2024-11-26": 279,
       "2024-11-11": 124,
       "2024-11-09": 42
-    }
-  },
-  {
-    "name": "misskey-zzlq",
-    "url": "https://zzlq.0il.pw/",
-    "icon": "https://icons.duckduckgo.com/ip3/zzlq.0il.pw.ico",
-    "slug": "misskey-zzlq",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "99.47%",
-    "time": 580,
-    "timeDay": 360,
-    "timeWeek": 525,
-    "timeMonth": 521,
-    "timeYear": 580,
-    "dailyMinutesDown": {
-      "2024-11-26": 472,
-      "2024-11-23": 97,
-      "2024-11-05": 22
     }
   },
   {
@@ -55,11 +33,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 255,
-    "timeDay": 224,
-    "timeWeek": 230,
-    "timeMonth": 263,
-    "timeYear": 255,
+    "time": 254,
+    "timeDay": 206,
+    "timeWeek": 226,
+    "timeMonth": 261,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2024-12-18": 16,
       "2024-11-06": 18
@@ -76,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 375,
-    "timeWeek": 488,
-    "timeMonth": 492,
-    "timeYear": 503,
+    "time": 499,
+    "timeDay": 355,
+    "timeWeek": 469,
+    "timeMonth": 487,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   },
   {
@@ -94,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 300,
-    "timeDay": 313,
-    "timeWeek": 284,
-    "timeMonth": 298,
-    "timeYear": 300,
+    "time": 299,
+    "timeDay": 260,
+    "timeWeek": 274,
+    "timeMonth": 295,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2024-11-06": 18
     }
@@ -114,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 270,
-    "timeDay": 198,
-    "timeWeek": 322,
-    "timeMonth": 267,
-    "timeYear": 270,
+    "time": 269,
+    "timeDay": 189,
+    "timeWeek": 305,
+    "timeMonth": 264,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2024-11-06": 18
     }
@@ -134,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
-    "time": 281,
-    "timeDay": 238,
-    "timeWeek": 261,
-    "timeMonth": 287,
-    "timeYear": 281,
+    "time": 279,
+    "timeDay": 220,
+    "timeWeek": 253,
+    "timeMonth": 285,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2024-11-22": 15,
       "2024-11-06": 18
@@ -155,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 258,
-    "timeDay": 202,
-    "timeWeek": 233,
-    "timeMonth": 249,
-    "timeYear": 258,
+    "time": 256,
+    "timeDay": 180,
+    "timeWeek": 223,
+    "timeMonth": 246,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2024-11-06": 18
     }
@@ -175,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 170,
-    "timeWeek": 160,
-    "timeMonth": 188,
-    "timeYear": 185,
+    "time": 184,
+    "timeDay": 171,
+    "timeWeek": 162,
+    "timeMonth": 187,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -188,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.0il.pw.ico",
     "slug": "tools",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.88%",
-    "time": 501,
-    "timeDay": 370,
+    "uptimeYear": "99.89%",
+    "time": 500,
+    "timeDay": 389,
     "timeWeek": 406,
-    "timeMonth": 455,
-    "timeYear": 501,
+    "timeMonth": 454,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2024-11-23": 60,
       "2024-11-05": 22
