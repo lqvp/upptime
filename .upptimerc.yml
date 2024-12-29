@@ -9,12 +9,6 @@ sites:
     url: https://key.0il.pw/
   - name: misskey-toma
     url: https://unko.0il.pw/
-  - name: yoiyami
-    url: https://yoiyami.0il.pw/
-  - name: sharkey
-    url: https://sharkey.0il.pw/
-  - name: iceshrimp
-    url: https://ice.0il.pw/
   - name: mastodon
     url: https://mstdn.0il.pw/
   - name: relay
