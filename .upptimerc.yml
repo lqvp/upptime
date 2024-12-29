@@ -7,8 +7,6 @@ sites:
     url: https://mi.0il.pw/
   - name: misskey-key
     url: https://key.0il.pw/
-  - name: mastodon
-    url: https://mstdn.0il.pw/
   - name: tools
     url: https://tools.0il.pw/
 
