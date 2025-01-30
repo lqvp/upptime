@@ -4,53 +4,59 @@
     "url": "https://mi.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/mi.0il.pw.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 557,
-    "timeWeek": 623,
-    "timeMonth": 644,
+    "timeDay": 656,
+    "timeWeek": 639,
+    "timeMonth": 648,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "misskey-key",
     "url": "https://key.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/key.0il.pw.ico",
     "slug": "misskey-key",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 543,
-    "timeWeek": 595,
-    "timeMonth": 631,
-    "timeYear": 342,
-    "dailyMinutesDown": {}
+    "time": 344,
+    "timeDay": 623,
+    "timeWeek": 609,
+    "timeMonth": 633,
+    "timeYear": 344,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "tools",
     "url": "https://tools.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.0il.pw.ico",
     "slug": "tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 548,
-    "timeWeek": 554,
-    "timeMonth": 634,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "time": 529,
+    "timeDay": 566,
+    "timeWeek": 558,
+    "timeMonth": 633,
+    "timeYear": 529,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   }
 ]
