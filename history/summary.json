@@ -4,19 +4,19 @@
     "url": "https://mi.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/mi.0il.pw.ico",
     "slug": "misskey",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 641,
-    "timeDay": 656,
-    "timeWeek": 639,
-    "timeMonth": 648,
+    "timeDay": 636,
+    "timeWeek": 635,
+    "timeMonth": 646,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://key.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/key.0il.pw.ico",
     "slug": "misskey-key",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 623,
-    "timeWeek": 609,
-    "timeMonth": 633,
-    "timeYear": 344,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 348,
+    "timeDay": 684,
+    "timeWeek": 631,
+    "timeMonth": 638,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://tools.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.0il.pw.ico",
     "slug": "tools",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 566,
-    "timeWeek": 558,
-    "timeMonth": 633,
-    "timeYear": 529,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 528,
+    "timeDay": 526,
+    "timeWeek": 546,
+    "timeMonth": 627,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 11
     }
   }
 ]
