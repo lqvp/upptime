@@ -22,19 +22,19 @@
     "url": "https://key.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/key.0il.pw.ico",
     "slug": "misskey-key",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 574,
-    "timeWeek": 660,
-    "timeMonth": 641,
-    "timeYear": 362,
+    "time": 363,
+    "timeDay": 538,
+    "timeWeek": 641,
+    "timeMonth": 635,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2025-02-04": 0
+      "2025-02-04": 6
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://tools.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.0il.pw.ico",
     "slug": "tools",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 583,
-    "timeWeek": 604,
-    "timeMonth": 629,
-    "timeYear": 534,
+    "time": 533,
+    "timeDay": 542,
+    "timeWeek": 589,
+    "timeMonth": 624,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-02-04": 0
+      "2025-02-04": 6
     }
   }
 ]
