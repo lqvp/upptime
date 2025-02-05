@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 279,
-    "timeWeek": 522,
-    "timeMonth": 604,
-    "timeYear": 634,
+    "time": 631,
+    "timeDay": 83,
+    "timeWeek": 473,
+    "timeMonth": 589,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "misskey-key",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 538,
+    "time": 364,
+    "timeDay": 540,
     "timeWeek": 641,
-    "timeMonth": 635,
-    "timeYear": 363,
-    "dailyMinutesDown": {
-      "2025-02-04": 6
-    }
+    "timeMonth": 633,
+    "timeYear": 364,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tools",
@@ -44,17 +42,15 @@
     "slug": "tools",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 542,
-    "timeWeek": 589,
+    "time": 534,
+    "timeDay": 545,
+    "timeWeek": 591,
     "timeMonth": 624,
-    "timeYear": 533,
-    "dailyMinutesDown": {
-      "2025-02-04": 6
-    }
+    "timeYear": 534,
+    "dailyMinutesDown": {}
   }
 ]
