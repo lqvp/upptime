@@ -22,18 +22,20 @@
     "url": "https://key.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/key.0il.pw.ico",
     "slug": "misskey-key",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 535,
-    "timeWeek": 589,
-    "timeMonth": 624,
-    "timeYear": 390,
-    "dailyMinutesDown": {}
+    "time": 392,
+    "timeDay": 637,
+    "timeWeek": 608,
+    "timeMonth": 627,
+    "timeYear": 392,
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "tools",
