@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 128,
-    "timeWeek": 140,
-    "timeMonth": 130,
-    "timeYear": 511,
+    "time": 510,
+    "timeDay": 251,
+    "timeWeek": 165,
+    "timeMonth": 134,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/key.0il.pw.ico",
     "slug": "misskey-key",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 448,
-    "timeDay": 513,
-    "timeWeek": 691,
-    "timeMonth": 646,
-    "timeYear": 448,
-    "dailyMinutesDown": {
-      "2025-03-07": 19
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 450,
+    "timeDay": 820,
+    "timeWeek": 693,
+    "timeMonth": 647,
+    "timeYear": 450,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tools",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.0il.pw.ico",
     "slug": "tools",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 440,
-    "timeWeek": 670,
-    "timeMonth": 626,
+    "timeDay": 608,
+    "timeWeek": 644,
+    "timeMonth": 625,
     "timeYear": 566,
-    "dailyMinutesDown": {
-      "2025-03-07": 19
-    }
+    "dailyMinutesDown": {}
   }
 ]
