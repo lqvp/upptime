@@ -4,19 +4,19 @@
     "url": "https://misskey.vip/",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.vip.ico",
     "slug": "misskey",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 452,
-    "timeWeek": 548,
-    "timeMonth": 454,
-    "timeYear": 486,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
+    "time": 487,
+    "timeDay": 519,
+    "timeWeek": 560,
+    "timeMonth": 460,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2025-05-17": 0
+      "2025-05-17": 47
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://key.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/key.0il.pw.ico",
     "slug": "misskey-key",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 321,
-    "timeWeek": 591,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
+    "time": 486,
+    "timeDay": 427,
+    "timeWeek": 596,
     "timeMonth": 659,
-    "timeYear": 485,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-05-17": 0
+      "2025-05-17": 47
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://tools.0il.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.0il.pw.ico",
     "slug": "tools",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 576,
-    "timeDay": 410,
-    "timeWeek": 568,
-    "timeMonth": 627,
+    "timeDay": 471,
+    "timeWeek": 571,
+    "timeMonth": 626,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-05-17": 0
+      "2025-05-17": 47
     }
   }
 ]
